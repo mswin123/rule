@@ -6,9 +6,9 @@ payload:
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,hxcy.top
   - DOMAIN-SUFFIX,moeli-desu.com
+  - GEOSITE,picacg
   - GEOSITE,ehentai
-  - DOMAIN-SUFFIX,18comic.vip
+  - GEOSITE,18comic
   - DOMAIN-SUFFIX,hitomi.la
   - DOMAIN-SUFFIX,wnacg.com
   - DOMAIN-SUFFIX,nhentai.net
-  - DOMAIN-SUFFIX,picacomic.com
