@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,mikanani.me
   - GEOSITE,pixiv
